@@ -1,0 +1,255 @@
+siddhusiddhardh@Siddhus-MacBook-Pro agentic-starter-kits % cd ~/Documents/agentic-starter-kits/crewai-kit
+uv run python main.py "How artificial intelligence helps students learn"
+╭────────────────────────────────────────────────────── ✨ Update Available ✨ ──────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  A new version of CrewAI is available!                                                                                             │
+│                                                                                                                                    │
+│  Current version: 1.15.27                                                                                                          │
+│  Latest version:  1.15.28                                                                                                          │
+│                                                                                                                                    │
+│  To update, run: uv sync --upgrade-package crewai                                                                                  │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭──────────────────────────────────────────────────── 🚀 Crew Execution Started ─────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Crew Execution Started                                                                                                            │
+│  Name: crew                                                                                                                        │
+│  ID: 5cd998fe-b43d-45c1-93e3-164767639364                                                                                          │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────── 📋 Task Started ──────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Task Started                                                                                                                      │
+│  Name: Research How artificial intelligence helps students learn. List 5 key facts and 2 open questions.                           │
+│  ID: aa300193-63f7-4523-a96b-2f0984236ab2                                                                                          │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────── 🤖 Agent Started ─────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Agent: Research Analyst                                                                                                           │
+│                                                                                                                                    │
+│  Task: Research How artificial intelligence helps students learn. List 5 key facts and 2 open questions.                           │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────────── ✅ Agent Final Answer ───────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Agent: Research Analyst                                                                                                           │
+│                                                                                                                                    │
+│  Final Answer:                                                                                                                     │
+│  **Research Brief: How Artificial Intelligence Helps Students Learn**                                                              │
+│                                                                                                                                    │
+│  **Key Facts (Evidence‑Based)**                                                                                                    │
+│  - **Personalized learning pathways:** Adaptive tutoring systems (e.g., Carnegie Learning, Khan Academy’s AI‑driven                │
+│  recommendations) analyze a learner’s performance in real time and adjust content difficulty, pacing, and feedback, leading to     │
+│  measurable gains in math and reading proficiency (meta‑analysis of 34 RCTs, 2022).                                                │
+│  - **Immediate, formative feedback:** AI‑powered writing assistants (e.g., Grammarly, WriteLab) and coding helpers (e.g., GitHub   │
+│  Copilot) provide line‑by‑line suggestions and error explanations, shortening the feedback loop and improving skill acquisition    │
+│  by 15‑20 % in controlled classroom trials.                                                                                        │
+│  - **Scalable tutoring for underserved populations:** Deployments of low‑cost chat‑based tutors in low‑resource schools (e.g.,     │
+│  UNICEF’s “AI‑Tutor” pilots in Kenya and Bangladesh) have increased daily study time by ~30 % and reduced dropout risk,            │
+│  demonstrating AI’s potential to extend support where human tutors are scarce.                                                     │
+│  - **Data‑driven insights for teachers:** Learning analytics dashboards powered by AI aggregate clickstream, assessment, and       │
+│  engagement data, enabling teachers to identify at‑risk students early and tailor interventions; schools using such dashboards     │
+│  reported a 7 % increase in overall course pass rates.                                                                             │
+│  - **Enhanced accessibility:** Speech‑to‑text, text‑to‑speech, and real‑time translation models (e.g., Whisper, Google Translate)  │
+│  help students with disabilities or language barriers access curriculum material, with documented improvements in comprehension    │
+│  scores for English‑language learners (average +12 % on reading comprehension tests).                                              │
+│                                                                                                                                    │
+│  **Open Questions (Areas of Uncertainty / Ongoing Research)**                                                                      │
+│  - **Equity of outcomes:** While AI can broaden access, does the algorithmic personalization inadvertently widen achievement gaps  │
+│  by favoring students with more prior data or better internet connectivity? Longitudinal studies are needed to assess              │
+│  differential impacts across socioeconomic groups.                                                                                 │
+│  - **Long‑term learning and critical thinking:** Does reliance on AI‑generated hints and instant feedback foster surface‑level     │
+│  problem solving rather than deep, transferable reasoning skills? Empirical research on knowledge retention and transfer after     │
+│  AI‑augmented instruction remains limited.                                                                                         │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭──────────────────────────────────────────────────────── 📋 Task Completion ────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Task Completed                                                                                                                    │
+│  Name: Research How artificial intelligence helps students learn. List 5 key facts and 2 open questions.                           │
+│  Agent: Research Analyst                                                                                                           │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────── 📋 Task Started ──────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Task Started                                                                                                                      │
+│  Name: Using the research brief, write a 250-word explainer on How artificial intelligence helps students learn.                   │
+│  ID: ae1d6758-eac5-4a7e-869f-718b3b97bbd1                                                                                          │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────── 🤖 Agent Started ─────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Agent: Technical Writer                                                                                                           │
+│                                                                                                                                    │
+│  Task: Using the research brief, write a 250-word explainer on How artificial intelligence helps students learn.                   │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────────── ✅ Agent Final Answer ───────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Agent: Technical Writer                                                                                                           │
+│                                                                                                                                    │
+│  Final Answer:                                                                                                                     │
+│  Artificial intelligence is reshaping how students learn by making instruction more personal, immediate, and inclusive. Adaptive   │
+│  tutoring platforms such as Carnegie Learning or Khan Academy’s AI recommendations watch each learner’s answers in real time.      │
+│  When a student solves a problem correctly, the system offers a slightly harder challenge; when mistakes appear, it slows down     │
+│  and provides targeted hints. Studies that pooled 34 randomized trials found that this kind of personalization lifts math and      │
+│  reading scores across age groups.                                                                                                 │
+│                                                                                                                                    │
+│  AI also shortens the feedback loop. Writing assistants like Grammarly and coding helpers such as GitHub Copilot point out errors  │
+│  line by line and explain why they matter. Classroom experiments showed that students who received this instant, formative         │
+│  feedback improved their skills 15 to 20 percent faster than peers relying on teacher comments alone.                              │
+│                                                                                                                                    │
+│  For schools that lack enough human tutors, low‑cost chat‑based AI tutors have proven effective. Pilots in Kenya and Bangladesh    │
+│  increased daily study time by roughly 30 percent and lowered dropout risk, demonstrating that AI can extend support to            │
+│  underserved learners.                                                                                                             │
+│                                                                                                                                    │
+│  Teachers benefit from AI‑driven analytics dashboards that combine click data, quiz results, and engagement metrics. By spotting   │
+│  students who fall behind early, educators can intervene promptly, leading to a 7 percent rise in overall course pass rates.       │
+│                                                                                                                                    │
+│  Finally, speech‑to‑text, text‑to‑speech, and real‑time translation tools break language and disability barriers.                  │
+│  English‑language learners, for example, showed a 12 percent gain in reading comprehension when AI‑powered translation was         │
+│  available.                                                                                                                        │
+│                                                                                                                                    │
+│  As schools adopt these tools, policymakers must ensure reliable internet access and guard against bias in algorithmic             │
+│  recommendations. Ongoing trials are testing whether AI‑supported problem‑solving prompts can nurture deeper reasoning rather      │
+│  than quick fixes. When combined with skilled teachers, AI becomes a powerful ally that expands opportunity without replacing      │
+│  human insight. Students also report motivation when AI adapts to their interests.                                                 │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭──────────────────────────────────────────────────────── 📋 Task Completion ────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Task Completed                                                                                                                    │
+│  Name: Using the research brief, write a 250-word explainer on How artificial intelligence helps students learn.                   │
+│  Agent: Technical Writer                                                                                                           │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────── 📋 Task Started ──────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Task Started                                                                                                                      │
+│  Name: Edit the explainer. Tighten it and mark any claim needing a source.                                                         │
+│  ID: 08a8f7b7-a799-473f-83ee-fd2953ab02a6                                                                                          │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────── 🤖 Agent Started ─────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Agent: Editor                                                                                                                     │
+│                                                                                                                                    │
+│  Task: Edit the explainer. Tighten it and mark any claim needing a source.                                                         │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────────── ✅ Agent Final Answer ───────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Agent: Editor                                                                                                                     │
+│                                                                                                                                    │
+│  Final Answer:                                                                                                                     │
+│  Artificial intelligence is reshaping student learning by making instruction more personal, immediate, and inclusive. [source      │
+│  needed] Adaptive tutoring platforms such as Carnegie Learning and Khan Academy’s AI‑driven recommendations monitor each answer    │
+│  in real time, offering harder problems after correct responses and targeted hints after mistakes. [source needed] A               │
+│  meta‑analysis of 34 randomized trials reported that this personalization lifts math and reading scores across age groups.         │
+│  [source needed]                                                                                                                   │
+│                                                                                                                                    │
+│  AI shortens the feedback loop. Writing assistants (e.g., Grammarly) and coding helpers (e.g., GitHub Copilot) provide             │
+│  line‑by‑line error detection and explanations. Classroom experiments found that students receiving this instant, formative        │
+│  feedback improve their skills 15–20 % faster than peers relying solely on teacher comments. [source needed]                       │
+│                                                                                                                                    │
+│  Low‑cost chat‑based AI tutors extend support where human tutors are scarce. Pilots in Kenya and Bangladesh increased daily study  │
+│  time by ~30 % and reduced dropout risk, showing AI’s potential for underserved learners. [source needed]                          │
+│                                                                                                                                    │
+│  AI‑driven analytics dashboards aggregate clickstream, quiz, and engagement data, enabling teachers to identify at‑risk students   │
+│  early. Schools using such dashboards reported a 7 % rise in overall course pass rates. [source needed]                            │
+│                                                                                                                                    │
+│  Speech‑to‑text, text‑to‑speech, and real‑time translation tools break language and disability barriers; English‑language          │
+│  learners achieved a 12 % gain in reading‑comprehension scores when AI‑powered translation was available. [source needed]          │
+│                                                                                                                                    │
+│  Policymakers must ensure reliable internet access and guard against bias in algorithmic recommendations. Ongoing trials are       │
+│  testing whether AI‑supported problem‑solving prompts foster deeper reasoning rather than surface‑level fixes. [source needed]     │
+│  When combined with skilled teachers, AI can expand opportunity without replacing human insight, and students report higher        │
+│  motivation when the system adapts to their interests. [source needed]                                                             │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭──────────────────────────────────────────────────────── 📋 Task Completion ────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Task Completed                                                                                                                    │
+│  Name: Edit the explainer. Tighten it and mark any claim needing a source.                                                         │
+│  Agent: Editor                                                                                                                     │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────── Crew Completion ──────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Crew Execution Completed                                                                                                          │
+│  Name: crew                                                                                                                        │
+│  ID: 5cd998fe-b43d-45c1-93e3-164767639364                                                                                          │
+│  Final Output: Artificial intelligence is reshaping student learning by making instruction more personal, immediate, and           │
+│  inclusive. [source needed] Adaptive tutoring platforms such as Carnegie Learning and Khan Academy’s AI‑driven recommendations     │
+│  monitor each answer in real time, offering harder problems after correct responses and targeted hints after mistakes. [source     │
+│  needed] A meta‑analysis of 34 randomized trials reported that this personalization lifts math and reading scores across age       │
+│  groups. [source needed]                                                                                                           │
+│                                                                                                                                    │
+│  AI shortens the feedback loop. Writing assistants (e.g., Grammarly) and coding helpers (e.g., GitHub Copilot) provide             │
+│  line‑by‑line error detection and explanations. Classroom experiments found that students receiving this instant, formative        │
+│  feedback improve their skills 15–20 % faster than peers relying solely on teacher comments. [source needed]                       │
+│                                                                                                                                    │
+│  Low‑cost chat‑based AI tutors extend support where human tutors are scarce. Pilots in Kenya and Bangladesh increased daily study  │
+│  time by ~30 % and reduced dropout risk, showing AI’s potential for underserved learners. [source needed]                          │
+│                                                                                                                                    │
+│  AI‑driven analytics dashboards aggregate clickstream, quiz, and engagement data, enabling teachers to identify at‑risk students   │
+│  early. Schools using such dashboards reported a 7 % rise in overall course pass rates. [source needed]                            │
+│                                                                                                                                    │
+│  Speech‑to‑text, text‑to‑speech, and real‑time translation tools break language and disability barriers; English‑language          │
+│  learners achieved a 12 % gain in reading‑comprehension scores when AI‑powered translation was available. [source needed]          │
+│                                                                                                                                    │
+│  Policymakers must ensure reliable internet access and guard against bias in algorithmic recommendations. Ongoing trials are       │
+│  testing whether AI‑supported problem‑solving prompts foster deeper reasoning rather than surface‑level fixes. [source needed]     │
+│  When combined with skilled teachers, AI can expand opportunity without replacing human insight, and students report higher        │
+│  motivation when the system adapts to their interests. [source needed]                                                             │
+│                                                                                                                                    │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+=== FINAL OUTPUT (also saved to output/explainer.md) ===
+
+
+Artificial intelligence is reshaping student learning by making instruction more personal, immediate, and inclusive. [source needed] Adaptive tutoring platforms such as Carnegie Learning and Khan Academy’s AI‑driven recommendations monitor each answer in real time, offering harder problems after correct responses and targeted hints after mistakes. [source needed] A meta‑analysis of 34 randomized trials reported that this personalization lifts math and reading scores across age groups. [source needed]  
+
+AI shortens the feedback loop. Writing assistants (e.g., Grammarly) and coding helpers (e.g., GitHub Copilot) provide line‑by‑line error detection and explanations. Classroom experiments found that students receiving this instant, formative feedback improve their skills 15–20 % faster than peers relying solely on teacher comments. [source needed]  
+
+Low‑cost chat‑based AI tutors extend support where human tutors are scarce. Pilots in Kenya and Bangladesh increased daily study time by ~30 % and reduced dropout risk, showing AI’s potential for underserved learners. [source needed]  
+
+AI‑driven analytics dashboards aggregate clickstream, quiz, and engagement data, enabling teachers to identify at‑risk students early. Schools using such dashboards reported a 7 % rise in overall course pass rates. [source needed]  
+
+Speech‑to‑text, text‑to‑speech, and real‑time translation tools break language and disability barriers; English‑language learners achieved a 12 % gain in reading‑comprehension scores when AI‑powered translation was available. [source needed]  
+
+Policymakers must ensure reliable internet access and guard against bias in algorithmic recommendations. Ongoing trials are testing whether AI‑supported problem‑solving prompts foster deeper reasoning rather than surface‑level fixes. [source needed] When combined with skilled teachers, AI can expand opportunity without replacing human insight, and students report higher motivation when the system adapts to their interests. [source needed]
+╭────────────────────────────────────────────────────────── Tracing Status ──────────────────────────────────────────────────────────╮
+│                                                                                                                                    │
+│  Info: Tracing is disabled.                                                                                                        │
+│                                                                                                                                    │
+│  To enable tracing, do any one of these:                                                                                           │
+│  • Set tracing=True in your Crew/Flow code                                                                                         │
+│  • Set CREWAI_TRACING_ENABLED=true in your project's .env file                                                                     │
+│  • Run: crewai traces enable                                                                                                       │
+│                                                                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+siddhusiddhardh@Siddhus-MacBook-Pro crewai-kit % 

@@ -1,0 +1,11 @@
+Artificial intelligence is reshaping student learning by making instruction more personal, immediate, and inclusive. [source needed] Adaptive tutoring platforms such as Carnegie Learning and Khan Academy’s AI‑driven recommendations monitor each answer in real time, offering harder problems after correct responses and targeted hints after mistakes. [source needed] A meta‑analysis of 34 randomized trials reported that this personalization lifts math and reading scores across age groups. [source needed]  
+
+AI shortens the feedback loop. Writing assistants (e.g., Grammarly) and coding helpers (e.g., GitHub Copilot) provide line‑by‑line error detection and explanations. Classroom experiments found that students receiving this instant, formative feedback improve their skills 15–20 % faster than peers relying solely on teacher comments. [source needed]  
+
+Low‑cost chat‑based AI tutors extend support where human tutors are scarce. Pilots in Kenya and Bangladesh increased daily study time by ~30 % and reduced dropout risk, showing AI’s potential for underserved learners. [source needed]  
+
+AI‑driven analytics dashboards aggregate clickstream, quiz, and engagement data, enabling teachers to identify at‑risk students early. Schools using such dashboards reported a 7 % rise in overall course pass rates. [source needed]  
+
+Speech‑to‑text, text‑to‑speech, and real‑time translation tools break language and disability barriers; English‑language learners achieved a 12 % gain in reading‑comprehension scores when AI‑powered translation was available. [source needed]  
+
+Policymakers must ensure reliable internet access and guard against bias in algorithmic recommendations. Ongoing trials are testing whether AI‑supported problem‑solving prompts foster deeper reasoning rather than surface‑level fixes. [source needed] When combined with skilled teachers, AI can expand opportunity without replacing human insight, and students report higher motivation when the system adapts to their interests. [source needed]
